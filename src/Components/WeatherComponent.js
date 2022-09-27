@@ -9,22 +9,22 @@ export const WeatherInfoIcons = {
 }
 
 export const WeatherIcons = {
-    "01d": "/icons/sunny.svg",
-    "01n": "icons/night.svg",
-    "02d": "/icons/day.svg",
-    "02n": "/icons/cloudy-night.svg",
-    "03d": "/icons/cloudy.svg",
-    "03n": "/icons/cloudy.svg",
-    "04d": "/icons/perfect-day.svg",
-    "04n": "/icons/cloudy-night.svg",
-    "09d": "/icons/rain.svg",
-    "09n": "/icons/rain-night.svg",
-    "10d": "/icons/rain.svg",
-    "10n": "/icons/rain-night.svg",
-    "11d": "/icons/storm.svg",
-    "11n": "/icons/storm.svg",
-    "12d": "/icons/mist.svg",
-    "12n": "/icons/mist.svg",
+    "01d": "/react-weatherApp/icons/sunny.svg",
+    "01n": "/react-weatherApp/icons/night.svg",
+    "02d": "/react-weatherApp/icons/day.svg",
+    "02n": "/react-weatherApp/icons/cloudy-night.svg",
+    "03d": "/react-weatherApp/icons/cloudy.svg",
+    "03n": "/react-weatherApp/icons/cloudy.svg",
+    "04d": "/react-weatherApp/icons/perfect-day.svg",
+    "04n": "/react-weatherApp/icons/cloudy-night.svg",
+    "09d": "/react-weatherApp/icons/rain.svg",
+    "09n": "/react-weatherApp/icons/rain-night.svg",
+    "10d": "/react-weatherApp/icons/rain.svg",
+    "10n": "/react-weatherApp/icons/rain-night.svg",
+    "11d": "/react-weatherApp/icons/storm.svg",
+    "11n": "/react-weatherApp/icons/storm.svg",
+    "12d": "/react-weatherApp/icons/mist.svg",
+    "12n": "/react-weatherApp/icons/mist.svg",
   };
 
 const WeatherCondition = styled.div`
